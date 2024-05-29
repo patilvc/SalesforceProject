@@ -42,7 +42,7 @@ public class AutomateFBDDF {
 		driver.findElement(By.xpath("//button[@type='submit']")).click();
 		Thread.sleep(2000);
 		
-	//	driver.navigate().refresh();
+	
 		
 		Thread.sleep(8000);
 		String a="Vaibhav Patil";
