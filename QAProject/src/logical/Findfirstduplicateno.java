@@ -13,7 +13,6 @@ public class Findfirstduplicateno {
 				if (i != j && a.charAt(i) == a.charAt(j)) {
 
 					b = false;
-
 				}
 
 			}
